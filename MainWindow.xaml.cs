@@ -22,7 +22,7 @@ namespace MoviePlayer
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent(); //123456789
         }
     }
 }
